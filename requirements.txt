@@ -4,4 +4,4 @@ langchain-openai==0.0.3
 chromadb==0.4.24
 python-dotenv==1.0.1
 pypdf==3.17.0
-tiktoken==0.7.0
+tiktoken
